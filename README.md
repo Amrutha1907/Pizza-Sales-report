@@ -6,6 +6,7 @@ Need to analyze key indicators for pizza sales data to gain insights intothe Bus
 
 Calculating the Metrices:
   1.Toatal Revenue
+  
   2.Average Order Value
   3.Total Pizza Sold
   4.Total Order
